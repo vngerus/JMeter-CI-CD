@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 365.9,
+    "medianResTime" : 335.0,
+    "minResTime" : 327.0,
+    "maxResTime" : 647.0,
+    "pct1ResTime" : 616.9000000000001,
+    "pct2ResTime" : 647.0,
+    "pct3ResTime" : 647.0,
+    "throughput" : 0.5473154178753216,
+    "receivedKBytesPerSec" : 13.415320897870943,
+    "sentKBytesPerSec" : 0.07108686579825953
+  },
+  "PokeApi" : {
+    "transaction" : "PokeApi",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 365.9,
+    "medianResTime" : 335.0,
+    "minResTime" : 327.0,
+    "maxResTime" : 647.0,
+    "pct1ResTime" : 616.9000000000001,
+    "pct2ResTime" : 647.0,
+    "pct3ResTime" : 647.0,
+    "throughput" : 0.5473154178753216,
+    "receivedKBytesPerSec" : 13.415320897870943,
+    "sentKBytesPerSec" : 0.07108686579825953
+  }
+}

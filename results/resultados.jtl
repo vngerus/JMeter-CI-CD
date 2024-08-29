@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1724886449160,647,PokeApi,200,OK,Grupo de Hilos 1-1,text,true,,25097,133,1,1,https://pokeapi.co/api/v2/pokemon/ditto,641,0,522
+1724886451096,339,PokeApi,200,OK,Grupo de Hilos 1-2,text,true,,25099,133,1,1,https://pokeapi.co/api/v2/pokemon/ditto,336,0,219
+1724886453097,341,PokeApi,200,OK,Grupo de Hilos 1-3,text,true,,25099,133,1,1,https://pokeapi.co/api/v2/pokemon/ditto,340,0,216
+1724886455096,328,PokeApi,200,OK,Grupo de Hilos 1-4,text,true,,25103,133,1,1,https://pokeapi.co/api/v2/pokemon/ditto,327,0,213
+1724886457096,327,PokeApi,200,OK,Grupo de Hilos 1-5,text,true,,25097,133,1,1,https://pokeapi.co/api/v2/pokemon/ditto,325,0,212
+1724886459095,332,PokeApi,200,OK,Grupo de Hilos 1-6,text,true,,25105,133,1,1,https://pokeapi.co/api/v2/pokemon/ditto,331,0,217
+1724886461095,333,PokeApi,200,OK,Grupo de Hilos 1-7,text,true,,25095,133,1,1,https://pokeapi.co/api/v2/pokemon/ditto,331,0,209
+1724886463096,346,PokeApi,200,OK,Grupo de Hilos 1-8,text,true,,25105,133,1,1,https://pokeapi.co/api/v2/pokemon/ditto,345,0,214
+1724886465096,329,PokeApi,200,OK,Grupo de Hilos 1-9,text,true,,25091,133,1,1,https://pokeapi.co/api/v2/pokemon/ditto,328,0,209
+1724886467094,337,PokeApi,200,OK,Grupo de Hilos 1-10,text,true,,25103,133,1,1,https://pokeapi.co/api/v2/pokemon/ditto,336,0,215
